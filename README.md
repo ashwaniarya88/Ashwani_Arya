@@ -53,7 +53,7 @@ I have experience managing application deployments, supporting developers, maint
 - Supported automation and deployment activities using Puppet.
 - Worked with Jenkins and Bamboo.
 
-### ⚙️ DevOps Engineer — Approximately 2 Years
+### ⚙️ DevOps Engineer — Approximately 2 Years 3 Months
 
 - Managed CI/CD pipelines and application release processes.
 - Coordinated application deployments across lower environments.
