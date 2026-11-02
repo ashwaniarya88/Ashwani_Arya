@@ -1,49 +1,149 @@
-# Ashwani_Ar
----
 
-### 📊 Dynamic GitHub Analytics
+# Hi, I'm Ashwani Arya 👋
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ashwaniarya88&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00d2ff&text_color=94a3b8&icon_color=38bdf8" alt="Ashwani's GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwaniarya88&theme=tokyonight&hide_border=true&stroke=00d2ff&ring=00d2ff&fire=f59e0b&currStreakNum=ffffff" alt="Ashwani's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+### Linux Administrator | DevOps Engineer | CI/CD & Release Engineer
 
-  <br/>
+I am an IT professional with **5 years and 2 months of experience** in Linux Administration, DevOps Engineering, CI/CD pipeline management, and Release Management.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwaniarya88&layout=compact&theme=tokyonight&hide_border=true&title_color=00d2ff&text_color=94a3b8" alt="Top Languages" />
-</div>
+I have experience managing application deployments, supporting developers, maintaining lower environments, and automating deployment processes using DevOps tools.
 
 ---
 
-### 🤝 Let's Connect & Collaborate!
+## 🚀 About Me
 
-I am always keen on discussing DevOps best practices, CI/CD pipeline optimization, Linux internals, and infrastructure reliability!
-
-<p align="center">
-  <a href="mailto:abc@gmail.com">
-    <img src="https://img.shields.io/badge/Email-abc%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/ashwaniarya88">
-    <img src="https://img.shields.io/badge/GitHub-ashwaniarya88-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+- 💼 Total Experience: **5 Years 2 Months**
+- 🐧 Linux Administration: **3 Years**
+- ⚙️ DevOps Engineering: **Approximately 2 Years**
+- 🔄 Experience managing CI/CD pipelines and release processes
+- 🤝 Supporting developers in lower environments
+- 🛠️ Interested in Cloud, Kubernetes, Automation, and Site Reliability Engineering
+- 📚 Continuously learning and improving my DevOps skills
 
 ---
 
-<div align="center">
-  <sub>⚡ Crafted with passion for automation, uptime, and seamless deployments • <b>Ashwani Arya</b></sub>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20&height=100&section=footer&strokeWidth=0" alt="Footer Banner" width="100%" />
-</div>
+## 💻 Technical Skills
+
+### Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+
+### CI/CD & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bamboo](https://img.shields.io/badge/Bamboo-0052CC?style=for-the-badge&logo=bamboo&logoColor=white)
+![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+
+### Cloud & Containers
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## 📈 Professional Experience
+
+### 🐧 Linux Administrator — 3 Years
+
+- Managed Linux server administration and operational activities.
+- Worked with Linux commands, services, processes, and troubleshooting.
+- Worked with Git, Bitbucket, and GitLab.
+- Supported automation and deployment activities using Puppet.
+- Worked with Jenkins and Bamboo.
+
+### ⚙️ DevOps Engineer — Approximately 2 Years
+
+- Managed CI/CD pipelines and application release processes.
+- Coordinated application deployments across lower environments.
+- Supported developers with build and deployment-related issues.
+- Troubleshot deployment failures and environment-related issues.
+- Worked with GitLab CI/CD and DevOps tools.
+- Supported smooth and reliable release activities.
+
+---
+
+## 🔄 CI/CD Workflow
+
+```text
+Developer
+    |
+    v
+Git / Bitbucket / GitLab
+    |
+    v
+CI/CD Pipeline
+    |
+    v
+Jenkins / Bamboo / GitLab CI
+    |
+    v
+Build & Deployment
+    |
+    v
+Lower Environment
+    |
+    v
+Testing & Developer Support
+    |
+    v
+Release Process
+```
+
+---
+
+## 🎯 Current Learning Goals
+
+- Advanced Linux Administration
+- Jenkins Pipeline and CI/CD
+- Docker and Kubernetes
+- AWS Cloud Services
+- Terraform and Infrastructure as Code
+- Monitoring and Observability
+- Site Reliability Engineering (SRE)
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashwaniarya88&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwaniarya88&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [@ashwaniarya88](https://github.com/ashwaniarya88)
+
+---
+
+<details>
+<summary><b>🛠️ Tools I Work With</b></summary>
+
+- Linux
+- Git
+- Bitbucket
+- GitLab
+- Jenkins
+- Bamboo
+- Puppet
+- AWS
+- Docker
+- Kubernetes
+
+</details>
+
+<details>
+<summary><b>📌 My Professional Focus</b></summary>
+
+My focus is on improving deployment automation, CI/CD reliability, Linux infrastructure management, and application release processes.
+
+I am working towards growing my expertise in DevOps and Site Reliability Engineering.
+
+</details>
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
